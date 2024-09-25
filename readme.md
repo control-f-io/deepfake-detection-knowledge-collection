@@ -54,7 +54,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 Each type of deepfake can be used for different purposes, ranging from entertainment and satire to harmful misinformation, identity theft, or political manipulation. As the technology advances, the lines between what’s real and what’s fake become harder to discern, raising ethical and legal concerns.
 
-## Detecting Deepfakes a Collection of Papers & Code 2024
+## Detecting Deepfakes: a Collection of Papers & Code 2024
 
 | Paper Name                                                                                       | Publication Date | Method Name                                     | Detection Modality | Feature Modality      | Supervised/Unsupervised     | Code                                                                 |
 | ------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------------- | ------------------ | --------------------- | --------------------------- | -------------------------------------------------------------------- |
