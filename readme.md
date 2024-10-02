@@ -50,7 +50,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 ---
 
 ### II.3. **Image Deepfakes**
-#### *II.3.1 Papers*:
+#### *<u>II.3.1 Papers</u>*:
 
 | Paper Name                                                                        | Publication Date | Method Name                      | Detection Modality                      | Feature Modality                     | Supervised/Unsupervised | Code                                                                                      |
 |-----------------------------------------------------------------------------------|------------------|-----------------------------------|----------------------------------------|--------------------------------------|------------------------|-------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 | Fake It Till You Make It: Learning Transferable Representations                   | CVPR 2023        | Transferable Representations      | ImageNet Classification                | Synthetic Images (Stable Diffusion)  | Supervised             | https://europe.naverlabs.com/research/computer-vision/imagenet-sd/#pretrained-models       |
 | Learning on Gradients: Generalized Artifacts Representation                       | CVPR 2023        | LGrad                            | GAN-generated Image Detection          | Gradient-based feature extraction    | Supervised             | https://github.com/chuangchuangtan/LGrad                                                   |
 
-#### *3.2 Glossary*:
+#### *<u>3.2 Glossary</u>*:
 
 **Datasets**:
 ---
