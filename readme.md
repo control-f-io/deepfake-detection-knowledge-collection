@@ -67,7 +67,8 @@ Deepfakes come in several different forms, based on the type of manipulation and
 - ***Datasets***:
 
   - **HiFi-IFDL Dataset**: <br> A dataset for fine-grained forgery detection, with CNN-based synthetic images and forgery masks.
-<br>
+  <br>
+
   - **CelebA-HQ**: <br> High-quality version of CelebA, featuring celebrity face images used in manipulation detection.
 <br>
 
