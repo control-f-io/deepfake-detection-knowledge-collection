@@ -64,7 +64,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 #### <u>*3.2 Glossary*</u>:
 
-**Datasets**:
+#### **Datasets**:
 ---
 - **HiFi-IFDL Dataset**: <br> A dataset for fine-grained forgery detection, with CNN-based synthetic images and forgery masks.
 <br>
@@ -88,7 +88,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Models and Architectures**:
+#### **Models and Architectures**:
 ---
 - **CNN**: <br> Neural network architecture designed for processing images.
 <br>
@@ -136,7 +136,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Neural Network Components and Mechanisms**:
+#### **Neural Network Components and Mechanisms**:
 ---
 - **Attention Mechanism**: <br> Focuses on important regions of input data to improve learning.
 <br>
@@ -163,7 +163,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Attention and Fusion Modules**:
+#### **Attention and Fusion Modules**:
 ---
 - **Cross-Modality Attention**: <br> Models interactions between different data types (eg. RGB images and noise maps).
 <br>
@@ -181,7 +181,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Image Processing and Feature Extraction**:
+#### **Image Processing and Feature Extraction**:
 ---
 - **Feature Fusion**: <br> Combines multiple feature sets (eg. RGB and high-frequency features).
 <br>
@@ -208,7 +208,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Image Manipulation and Forgery Techniques**:
+#### **Image Manipulation and Forgery Techniques**:
 ---
 - **Face Blending**: <br> Merging a fake face with a real image, often leaving blending artifacts.
 <br>
@@ -229,7 +229,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Image Analysis in the Frequency Domain**:
+#### **Image Analysis in the Frequency Domain**:
 ---
 - **DCT (Discrete Cosine Transform)**: <br> Converts spatial data into frequency domain for forgery analysis.
 <br>
@@ -247,7 +247,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Detection and Generalization Techniques**:
+#### **Detection and Generalization Techniques**:
 ---
 - **Cross-Database Detection**: <br> Model trained on one database and tested on another.
 <br>
@@ -265,7 +265,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Evaluation Metrics and Loss Functions**:
+#### **Evaluation Metrics and Loss Functions**:
 ---
 - **AUC (Area Under the Curve)**: <br> Measures model performance based on true and false positives.
 <br>
@@ -289,7 +289,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Post-Processing and Artifacts**:
+#### **Post-Processing and Artifacts**:
 ---
 - **Post-Processing**: <br> Operations applied to images after creation which introduce detectable artifacts.
 <br>
@@ -301,7 +301,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Tools for Forensic Detection**:
+#### **Tools for Forensic Detection**:
 ---
 - **SRM (Steganalysis Rich Model) Filters**: <br> Extract high-frequency noise from images to detect subtle inconsistencies.
 <br>
@@ -319,7 +319,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 <br>
 
-**Other Concepts and Techniques**:
+#### **Other Concepts and Techniques**:
 ---
 - **Grad-CAM**: <br> Generates visual explanations by highlighting important regions for model predictions.
 <br>
