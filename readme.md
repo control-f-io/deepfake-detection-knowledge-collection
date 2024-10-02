@@ -116,6 +116,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 - **HiFi-Net**: <br> Hierarchical network for detecting and classifying forgery attributes at different resolutions.
 <br>
+
 - **Frozen Network**: <br> Pre-trained model whose weights remain fixed during training (eg. CLIP for feature extraction).
 <br>
 
@@ -142,6 +143,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 - **Anomaly Map**: <br> Highlights unusual areas in an image that may indicate manipulation.
 <br>
+
 - **Anomaly Localization Map**: <br> Pixel-level map showing regions of manipulation within an image.
 <br>
 
@@ -186,6 +188,7 @@ Deepfakes come in several different forms, based on the type of manipulation and
 
 - **Gradient-Based Features**: <br> Extracted from image gradients to highlight key areas distinguishing real from fake.
 <br>
+
 - **Generalized Artifact Representation**: <br> Captures artifacts from generative models for generalized forgery detection.
 <br>
 
